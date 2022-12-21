@@ -1,0 +1,288 @@
+{
+    "RETIROS_/_AVANCES": [
+        {
+            "011000": "Cuenta de ahorros.",
+            "012000": "Cuenta Corriente",
+            "013000": "Avance Tarjeta de Credito"
+        }
+    ],
+    "ANULACION_DE_DEPOSITO,_PAGOS_Y_TRANSFERENCIAS": [
+        {
+            "201000": "Deposito en Cta Aho",
+            "202000": "Deposito en Cta Cte",
+            "200100": "Pago Cre Hip Efectivo",
+            "200200": "Pago Cre Hip Cheque ",
+            "201001": "Pago Cre Hip Cta Aho",
+            "202001": "Pago Cre Hip Cta Cte",
+            "200130": "Pago Tarjeta crédito efectivo",
+            "200230": "Pago Tarjeta crédito cheque",
+            "201030": "Pago Tarjeta crédito Cta Aho",
+            "202030": "Pago Tarjeta crédito Cta Cte",
+            "200140": "Pago Cre Rot Efectivo",
+            "200240": "Pago Cre Rot Cheque",
+            "201040": "Pago Cre Rot Cta Aho",
+            "202040": "Pago Cre Rot Cta Cte",
+            "200141": "Pago Otros Creditos  Efectivo",
+            "200241": "Pago Otros Creditos Cheque",
+            "201041": "Pago Otros Creditos Cta Aho",
+            "202041": "Pago Otros Creditos Cta Cte",
+            "201010": "Transferencias Ahorros – Ahorros",
+            "201020": "Transferencias Ahorros – Corriente",
+            "202020": "Transferencias Corriente – Corriente",
+            "202010": "Transferencias Corriente – Ahorros"
+        }
+    ],
+    "DEPOSITOS": [
+        {
+            "211000": "Depósitos cuenta de Ahorros",
+            "212000": "Depósitos cuenta Corriente"
+        }
+    ],
+    "DEVOLUCION_DE_CANJE": [
+        {
+            "231000": "Para Ahorros",
+            "232000": "Para Corriente",
+            "230000": "Crédito Hipotecario ",
+            "233000": "Tarjeta de Crédito",
+            "234000": "Crédito Rotativo",
+            "234100": "Otros Créditos",
+            "234200": "Motos y Vehículos"
+        }
+    ],
+    "ANULACION_DE_DEVOLUCION_DE_CANJE": [
+        {
+            "241000": "Deposito en Cta Aho",
+            "242000": "Deposito en Cta Cte",
+            "240000": "Pago Cre Hip",
+            "243000": "Pago Tarjeta crédito",
+            "244000": "Pago Cre Rot",
+            "244100": "Pago Otros Creditos",
+            "244200": "Motos y Vehículos"
+        }
+    ],
+    "DEPOSITOS": [
+        {
+            "272000": "Depósito en cheque-Pago Cr Hip",
+            "272010": "Depósito en cheque-Cta. Aho.",
+            "272020": "Depósito en cheque-Cta. Cte.",
+            "272030": "Depósito en cheque-Tarj. Cre.",
+            "272030": "Depósito en cheque-Cre. Rot."
+        }
+    ],
+    "DEPOSITOS": [
+        {
+            "401014": "Depósito de cuenta ahorros a cuenta ahorros",
+            "401024": "Depósito de cuenta ahorros a cuenta corriente",
+            "401044": "Depósito de cuenta ahorros a cuenta Transfer",
+            "402014": "Depósito de cuenta corriente a cuenta ahorros",
+            "402024": "Depósito de cuenta corriente a cuenta corriente",
+            "402044": "Depósito de cuenta corriente a cuenta Transfer"
+        }
+    ],
+    "COMPRAS_POS": [
+        {
+            "001000": "Compra normal con Cuenta de Ahorros",
+            "002000": "Compra normal con Cuenta Corriente",
+            "201000": "Devolución de Mercancía Cuenta de Ahorros",
+            "202000": "Devolución de Mercancía Cuenta Corriente",
+            "801000": "Pedido por correo o teléfono Cuenta de Ahorros",
+            "802000": "Pedido por correo o teléfono Cuenta Corriente",
+            "011000": "Adelanto en efectivo Cuenta de Ahorros",
+            "012000": "Adelanto en efectivo Cuenta Corriente",
+            "811000": "Verificación de tarjeta Cuenta de Ahorros",
+            "812000": "Verificación de tarjeta Cuenta Corriente",
+            "311000": "Consulta de saldo Cuenta de Ahorros",
+            "312000": "Consulta de saldo Cuenta Corriente",
+            "091000": "Compra con devolución de efectivo Cuenta de Ahorros",
+            "092000": "Compra con devolución de efectivo Cuenta Corriente",
+            "221000": "Ajuste de compra Cuenta de Ahorros",
+            "222000": "Ajuste de compra Cuenta Corriente",
+            "141000": "Ajuste de anticipos en efectivo Cuenta de Ahorros",
+            "142000": "Ajuste de anticipos en efectivo Cuenta Corriente"
+        }
+    ],
+    "CONSULTAS": [
+        {
+            "311000": "Cuenta de ahorros.",
+            "312000": "Cuenta corriente.",
+            "313000": "Tarjeta de crédito.",
+            "314000": "Cupo crédito rotativo."
+        }
+    ],
+    "CONSULTA_CORRESPONSALES_NO_BANCARIOS": [
+        {
+            "311043": "Cuenta de ahorros",
+            "312043": "Cuenta corriente"
+        }
+    ],
+    "CONSULTA_DE_TITULARES_CARTERA": [
+        {
+            "330000": "Crédito Hipotecario",
+            "333000": "Tarjeta Crédito",
+            "334000": "Crédito Rotativo",
+            "334100": "Otros Créditos"
+        }
+    ],
+    "CONSULTA_5_ULTIMOS_MOVIMIENTOS": [
+        {
+            "381000": "Cuenta de ahorros.",
+            "382000": "Cuenta corriente."
+        }
+    ],
+    "CONSULTA_DE_CUENTAS_RELACIONADAS": [
+        {
+            "321000": "Cuenta de ahorros.",
+            "322000": "Cuenta corriente."
+        }
+    ],
+    "CONSULTA_DE_SERVICIOS_PUBLICOS": [
+        {
+            "300040": "Consulta de valor a pagar.",
+            "324000": "Consulta referencias de convenio"
+        }
+    ],
+    "CONSULTA_DE_FIRMAS": [
+        {
+            "311000": "Consulta de Firmas para cuenta de Ahorros",
+            "312000": "Consulta de Firmas para cuenta de corriente",
+            "311001": "Consulta de Firmas para cuenta de Ahorros - mensajes adicionales",
+            "312001": "Consulta de Firmas para cuenta de corriente - mensajes adicionales"
+        }
+    ],
+    "CONSULTA_DE_TITULARES": [
+        {
+            "331000": "Consulta de Titulares cta Ahorro",
+            "332000": "Consulta de Titulares cta Corriente"
+        }
+    ],
+    "VALIDACION_TITULARIDAD": [
+        {
+            "353000": "Validación Titularidad"
+        }
+    ],
+    "CONSULTA_TITULARES_CARTERA_DE_CREDITO": [
+        {
+            "330000": "Hipotecario",
+            "333000": "Tarjeta de crédito",
+            "334000": "Crédito rotativo",
+            "334100": "Otros Créditos",
+            "334200": " Motos y Vehículos"
+        }
+    ],
+    "CONSULTA_DE_COSTO_DE_LA_TX": [
+        {
+            "890000": "Consulta"
+        }
+    ],
+    "RETIROS_SIN_TARJETA": [
+        {
+            "401410": "Retiro de una cuenta ahorros a una cuenta corresponsal ahorros",
+            "401420": "Retiro de una cuenta ahorros a una cuenta corresponsal corriente",
+            "402410": "Retiro de una cuenta corriente a una cuenta corresponsal ahorros",
+            "402420": "Retiro de una cuenta corriente a una cuenta corresponsal corriente",
+            "404410": "Retiro de una cuenta transfer a una cuenta corresponsal ahorros",
+            "404420": "Retiro de una cuenta transfer a una cuenta corresponsal corriente"
+        }
+    ],
+    "DEPOSITOS": [
+        {
+            "401014": "Depósito de cuenta ahorros a cuenta ahorros",
+            "401024": "Depósito de cuenta ahorros a cuenta corriente",
+            "401044": "Depósito de cuenta ahorros a cuenta Transfer",
+            "402014": "Depósito de cuenta corriente a cuenta ahorros",
+            "402024": "Depósito de cuenta corriente a cuenta corriente",
+            "402044": "Depósito de cuenta corriente a cuenta Transfer"
+        }
+    ],
+    "ATM_-_CREDIBANCO_INTERNACIONAL": [
+        {
+            "011000": "Retiro o anticipo en efectivo Cuenta de Ahorros",
+            "012000": "Retiro o anticipo en efectivo Cuenta Corriente",
+            "311000": "Consulta de saldo Cuenta de Ahorros",
+            "312000": "Consulta de saldo Cuenta Corriente",
+            "961000": "Cambio de PIN Cuenta de Ahorros",
+            "962000": "Cambio de PIN Cuenta Corriente",
+            "891000": "Costo por Transacción Cuenta de Ahorros",
+            "892000": "Costo por Transacción Cuenta Corriente"
+        }
+    ],
+    "PAGO_DE_SERVICIOS_PUBLICOS_o_CONVENIOS": [
+        {
+            "401000": "Pago de Servicios contra una cuenta de ahorros.",
+            "402000": "Pago de servicios contra una cuenta corriente.",
+            "403000": "Pago de servicios contra tarjeta crédito",
+            "400100": "Pago de servicios con efectivo",
+            "400200": "Pago de servicios con cheque"
+        }
+    ],
+    "UTILIZACION_CREDITO_ROTATIVO": [
+        {
+            "404010": "Utilización hacia cuenta de Ahorros.",
+            "404020": "Utilización hacia cuenta corriente."
+        }
+    ],
+    "TRANSFERENCIAS": [
+        {
+            "401010": "Ahorros a Ahorros",
+            "401020": "Ahorros a Corriente.",
+            "402010": "Corriente a Ahorros.",
+            "402020": "Corriente a Corriente."
+        }
+    ],
+    "RETIROS_EN_CNB": [
+        {
+            "501043": "Ahorros",
+            "502043": "Corriente"
+        }
+    ],
+    "PAGOS": [
+        {
+            "501000": "Crédito hipotecario (Ahorros).",
+            "502000": "Crédito hipotecario (Corriente).",
+            "500100": "Crédito hipotecario (Efectivo). Solo pata Atm",
+            "500200": "Crédito hipotecario (Cheque).",
+            "501030": "Tarjeta de crédito (Ahorros).",
+            "502030": "Tarjeta de crédito (Corriente).",
+            "500130": "Tarjeta de crédito (Efectivo).",
+            "500230": "Tarjeta de crédito (Cheque).",
+            "501040": "Crédito rotativo (Ahorros)",
+            "502040": "Crédito rotativo (Corriente)",
+            "500140": "Crédito rotativo (Efectivo)",
+            "500240": "Crédito rotativo (Cheque)",
+            "501041": "Otros Créditos (Ahorros)",
+            "502041": "Otros Créditos (Corriente)",
+            "500141": "Otros Créditos  (Efectivo)",
+            "500241": "Otros Créditos (Cheque)",
+            "501042": "Crédito Motos y vehículos (Ahorros)",
+            "502042": "Crédito Motos y vehículos (Corriente)"
+        }
+    ],
+    "CAMBIO_DE_PIN": [
+        {
+            "910000": "Tarjeta Débito.",
+            "913030": "Tarjeta Crédito."
+        }
+    ],
+    "CAMBIO_DE_CHEQUES/_REVERSO_CAMBIO_DE_CHEQUES": [
+        {
+            "922000": "Cambio de cheques  "
+        }
+    ],
+    "PAGOS_EN_EFECTIVO_O_CHEQUE,_DEVOLUCION_DE_CANJE,ANULACION_DE_PAGO,_ANULACION_DE_DEVOLUCION": [
+        {
+            "500100": "Pago Hipotecario - Efectivo",
+            "500130": "Pago Tarjeta de Credito - Efectivo",
+            "500140": "Pago Credito Rotativo - Efectivo",
+            "500141": "Pago Otros Creditos - Efectivo",
+            "500142": "Pago Hipotecario - Cheque",
+            "500230": "Pago Tarjeta de Credito - Cheque",
+            "500240": "Pago Credito Rotativo - Cheque",
+            "500241": "Pago Otros Creditos - Cheque",
+            "500242": "Pago Motos y Vehiculos - Cheque",
+            "400101": "Transferencias Efectivo - Efectivo",
+            "400102": "Transferencias Efectivo - Cheque",
+            "400201": "Transferencias Cheque - Efectivo",
+            "400202": "Transferencias Cheque - Cheque"
+        }
+    ]
+}
